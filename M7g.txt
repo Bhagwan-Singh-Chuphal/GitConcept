@@ -1,3 +1,4 @@
 this file is created in master
 add and commited in Branch1
-but now we try to push it from master again
+but if  now we try to push it from master it wont reflect on gitHub
+so have to push from Branch1 once we add and commit it to the Branch1
