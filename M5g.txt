@@ -1,0 +1,7 @@
+		THIS FILE IS CREATED IN MASTER BRANCH IN GIT
+		COMMITED IN MASTER BRANCH
+	AND 
+
+IF WE PUSH FROM BRANCH then nothing happens because we havent done any change
+in Branch1
+so have to push from master
